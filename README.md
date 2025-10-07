@@ -38,11 +38,11 @@
 <!-- Projects -->
 <h2 align="center">💻 Featured Projects</h2>
 <p align="center">
-<b>LocalDoc – Doctor Finder & Appointment Booking</b><br/>
+<b>Medivara – Doctor Finder & Appointment Booking</b><br/>
 <a href="https://github.com/divyapatil/localdoc-frontend">Frontend</a> | 
 <a href="https://github.com/divyapatil/localdoc-backend">Backend</a> | 
 <a href="https://localdoc-frontend.vercel.app">Live Demo</a>  
-A full-stack healthcare platform with authentication, dashboards, and appointment booking.
+A full-stack healthcare platform with authentication, payment gateway, and appointment booking.
 </p>
 
 <p align="center">
@@ -51,12 +51,12 @@ A full-stack healthcare platform with authentication, dashboards, and appointmen
 Practice platform for data structures & algorithms with live test case evaluation.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <b>Portfolio Website (React)</b><br/>
 <a href="https://github.com/divyapatil/portfolio-website-react">GitHub</a> | 
 <a href="https://your-portfolio-link.com">Live Demo</a>  
 Personal portfolio showcasing projects, skills, and resume.
-</p>
+</p> -->
 
 ---
 
