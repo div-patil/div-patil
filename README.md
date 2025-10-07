@@ -29,7 +29,7 @@
 <p align="center">
 - Full Stack Developer with experience in **Odoo** and **MERN stack**  
 - Passionate about **web apps, dashboards, and interactive platforms**  
-- Currently exploring **Machine Learning & Data Science**  
+- Currently exploring **Machine Learning**  
 - Love writing **clean, maintainable, scalable code**
 </p>
 
@@ -88,7 +88,7 @@ Personal portfolio showcasing projects, skills, and resume.
 <h2 align="center">🎯 Currently Learning</h2>
 <p align="center">
 - Advanced MERN projects with **JWT Auth, Payments, Deployment**  
-- **Machine Learning & Data Science** on Kaggle  
+- **Machine Learning** on Kaggle  
 - Clean code practices & scalable architectures
 </p>
 
