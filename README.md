@@ -18,9 +18,9 @@
 ---
 
 <!-- Animated GIF / Visual -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="250"/>
-</p>
+</p> -->
 
 ---
 
