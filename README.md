@@ -15,14 +15,7 @@
 </a>
 </p>
 
----
 
-<!-- Animated GIF / Visual -->
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="250"/>
-</p> -->
-
----
 
 <!-- About Me -->
 <h2 align="center">💼 About Me</h2>
